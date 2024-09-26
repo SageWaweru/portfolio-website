@@ -290,6 +290,7 @@ form textarea{
 .I-photo img{
     width: 40vw;
     margin-left: 2rem;
+    margin-top: 1rem;
 }
 
 .I-content{
@@ -314,4 +315,5 @@ form textarea{
 
 .table table{
     margin-left: 2rem;
+    margin-bottom: 2rem;
 }
